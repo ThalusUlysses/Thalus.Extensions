@@ -2,6 +2,17 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Authors>Thalus Ulysses</Authors>
+    <Company>None</Company>
+    <Product>Thalus Extensions</Product>
+    <Description>This library is a small collection of .NET extension methods based on .NET Standard 2.0.</Description>
+    <Copyright>(c) Thalus Ulysses</Copyright>
+    <PackageLicenseUrl>https://github.com/ThalusUlysses/Thalus.Extensions/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/ThalusUlysses/Thalus.Extensions</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ThalusUlysses/Thalus.Extensions</RepositoryUrl>
+    <RepositoryType>Code</RepositoryType>
+    <PackageTags>Library .NET Standard 2.0 Extensions</PackageTags>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
